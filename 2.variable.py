@@ -5,3 +5,5 @@ is_published = True
 
 
 print(is_published)
+
+x, y = 32, 'Hello'
